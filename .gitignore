@@ -1,0 +1,30 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+frontend/.env*.local
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.env
+
+# General env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database
+*.sqlite3
